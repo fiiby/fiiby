@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Dart and Flutter<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning Dart and Flutter<br>🎯 Goals: achieving proficiency in a variety of programming languages and frameworks<br>🎲 Fun fact: Sound can be minus decibels</p>
 
 ###
 
